@@ -16,6 +16,8 @@ At least one project must be approved for each functional area.
 Constraints Considered
 Total Capital Budget Constraint:
 Total capital expenditures across all three years must not exceed $10 billion.
+//
+//
 Annual Capital Limit Constraint:
 Capital expenditures in any individual year must not exceed $4 billion.
 Functional Area Representation Constraint:
