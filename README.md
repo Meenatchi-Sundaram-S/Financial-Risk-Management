@@ -1,5 +1,3 @@
-# Financial-Risk-Management
-
 # Problem Statement:-
 Julie Kavoli, Manager for Project Development at Bluejay Natural Gas, would now like to find the optimal set of project proposals to approve.
 
