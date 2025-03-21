@@ -28,3 +28,4 @@ Using binary decision variables, we represented whether each project should be a
 A linear programming (LP) model was created in Excel using the Solver tool, with the objective to:
 Maximize total NPV
 While satisfying all capital and functional constraints mentioned above
+![Image](https://github.com/user-attachments/assets/94a29195-d285-4a22-993c-71e297e89765)
